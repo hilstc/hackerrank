@@ -16,8 +16,10 @@ import sys
 #
 
 def simpleArraySum(ar):
-    # Write your code here
+
+    # Sums up the array's values and return an integer.
     sum_ar = int(sum(ar))
+    
     return sum_ar
 
 if __name__ == '__main__':
