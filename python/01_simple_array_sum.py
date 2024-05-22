@@ -17,7 +17,7 @@ import sys
 
 def simpleArraySum(ar):
 
-    # Sums up the array's values and return an integer.
+    # Sums up the array's values and returns an integer.
     sum_ar = int(sum(ar))
     
     return sum_ar
