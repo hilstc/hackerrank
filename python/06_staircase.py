@@ -42,10 +42,8 @@ def staircase(n):
         
         print(string)
         
-        
-        
-        
+       
 if __name__ == '__main__':
-    n = int(input().strip())
+    n = int(input("Insert number of steps: ").strip())
 
     staircase(n)
